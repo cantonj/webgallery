@@ -1,12 +1,12 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
+  background-color: #595a5a; /* change background color */
   text-align: center;
-  color: #000;  /* change font color */
+  color: #084539;  /* change font color */
   line-height: 36px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Blackadder ITC', Helvetica, sans-serif;
 }
 
 body,html {
@@ -14,7 +14,7 @@ body,html {
 
 }
 a, a:active, a:visited {
-  color: #0066CC;
+  color: #595a5a;
 }
 
 h1, h2, h3, h4 {
@@ -23,15 +23,15 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 36px; /* change */
+  font-size: 50px; /* change */
   line-height: 36px;
   margin: 1.6875rem 0;
 }
 
 #container {
-  background-image: url("../img/cement.jpg"); /* change */
+  background-image: url("../img/Guangzhou.jpg"); /* change */
   min-height: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
